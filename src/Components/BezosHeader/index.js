@@ -20,11 +20,11 @@ export const BezosHeaderRaw = ({ classes }) => (
       alignItems="center"
     >
       <Grid item xs={12}>
-        <Avatar alt="Jeff Bezos" src="/images/bezos.jpg" className={classes.avatar} />
+        <Avatar alt="Ken Griffin" src="/images/kg.jpg" className={classes.avatar} />
       </Grid>
       <Grid item xs={12}>
         <Typography component="h1" variant="h4" align="center" color="textPrimary">
-          Spend Jeff Bezos&apos; Money
+          Spend Ken Griffin&apos;s Money
         </Typography>
       </Grid>
     </Grid>

@@ -58,6 +58,26 @@ const products = [{
     name: 'Private jet',
     price: 5000000,
     image: '/images/items/private-jet.jpg'
+}, {
+    id: 13,
+    name: 'NBA Team',
+    price: 2120000000,
+    image: '/images/items/nba.jpg'
+}, {
+    id: 14,
+    name: 'MLB Team',
+    price: 2000000000,
+    image: '/images/items/mlb.jpg'
+}, {
+    id: 15,
+    name: 'NFL Team',
+    price: 2500000000,
+    image: '/images/items/nfl.jpg'
+}, {
+    id: 16,
+    name: 'CTA Bus',
+    price: 560000,
+    image: '/images/items/ctabus.jpg'
 }];
 
 // We want it to be shown by price in ascending order.

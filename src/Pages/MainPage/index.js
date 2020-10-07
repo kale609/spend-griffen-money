@@ -22,7 +22,7 @@ const {
 } = Components;
 
 // We export it for the unit tests.
-export const BEZOS_NET_WORTH = 120000000000000;
+export const BEZOS_NET_WORTH = 15000000000;
 
 export class MainPageRaw extends React.Component {     
     constructor(props) {
